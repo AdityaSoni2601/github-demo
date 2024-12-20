@@ -1,2 +1,3 @@
-# github-demo
-Learning Github
+# GitHub-demo
+Learning GitHub
+Author - Aditya Soni
