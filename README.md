@@ -1,3 +1,4 @@
 # GitHub-demo
-Learning GitHub
+Learning GitHub.
+
 Author - Aditya Soni
